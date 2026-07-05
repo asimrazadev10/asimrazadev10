@@ -266,13 +266,19 @@ interface DeveloperProfile {
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=asimrazadev10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimrazadev10&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00D4AA&line=00D4AA&point=ffffff&area=true&area_color=00D4AA22" alt="Contribution Graph" />
   
 </div>
 
+---
+
+## 🏆 GitHub Achievements & Trophies
+
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimrazadev10&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00D4AA&line=00D4AA&point=ffffff&area=true&area_color=00D4AA22" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asimrazadev10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  
+  <sub>🎖️ Trophies update automatically as commits, PRs, stars, and followers grow. See the live <b>Achievements</b> on the profile sidebar &rarr;</sub>
   
 </div>
 
