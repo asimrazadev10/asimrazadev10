@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js+Expert;C%2B%2B+Open+Source+Contributor+(LibreOffice);10%2B+Merged+Patches+to+LibreOffice+Core;MERN+Intern+at+Arch+Technologies;BS+Computer+Science+%7C+CGPA+3.71%2F4.0;ISC2+Certified+in+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js+Expert;C%2B%2B+Open+Source+Contributor+(LibreOffice);10%2B+Merged+Patches+to+LibreOffice+Core;MERN+Intern+at+Arch+Technologies;BS+Computer+Science+%7C+CGPA+3.71%2F4.0;ISC2+Certified+in+Cybersecurity" alt="Typing SVG" />
   
 </div>
 
@@ -260,7 +260,7 @@ interface DeveloperProfile {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimrazadev10&theme=tokyonight&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asimrazadev10&theme=tokyonight&hide_border=true&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
   
 </div>
 
@@ -320,7 +320,6 @@ interface DeveloperProfile {
   
   ### Thanks for visiting my profile! 🌟
   
-  ![Visitor Count](https://profile-counter.glitch.me/asimrazadev10/count.svg)
   ![Profile Views](https://komarev.com/ghpvc/?username=asimrazadev10&color=00D4AA&style=for-the-badge)
   
   **💼 Available for opportunities | 🤝 Open to collaborations | ☕ Always up for coffee chats**
